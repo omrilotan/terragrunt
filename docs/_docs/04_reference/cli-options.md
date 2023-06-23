@@ -53,7 +53,7 @@ terragrunt destroy
 # etc
 ```
 
-Run `terraform --help` to get the full list.
+Run `terragrunt --help` to get the full list.
 
 
 ### run-all
